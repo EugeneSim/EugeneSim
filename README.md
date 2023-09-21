@@ -1,4 +1,8 @@
 ### Hi there 👋 , I am Eugene Sim 🇸🇬!
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/0xYuuJin">
+
+
+
 
 <!--
 **EugeneSim/EugeneSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
