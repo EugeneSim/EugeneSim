@@ -56,11 +56,11 @@ I am working towards becoming a Full Stack Developer <img src="https://media.gip
 
 ---
 ### 🔥 My Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EugeneSim&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="500" height="200" align="left"> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=EugeneSim&show_icons=true&theme=radical" alt="Eugene's GitHub stats" width="500" height="200" align="left">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EugeneSim&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneSim&layout=compact" alt="Top Languages" width="400" height="200">
+![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?EugeneSim=anuraghazra&show_icons=true&theme=transparent)
 <!--
 **EugeneSim/EugeneSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
