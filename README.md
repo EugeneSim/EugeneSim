@@ -59,13 +59,7 @@ Data Engineer at a **prominent multinational financial institution**, architecti
 
 <div align="center">
 
-<!-- Replace the placeholder below with your own image:
-     1. Add your photo to this repo (e.g., assets/photo.jpg)
-     2. Update the src path accordingly
--->
-<img src="assets/photo.jpg" alt="photography" width="720" />
-
-<sub>*Replace with your favourite shot — add the image to `assets/` and update the path above.*</sub>
+<img src="https://raw.githubusercontent.com/EugeneSim/EugeneSim/claude/strange-mccarthy/assets/photo.jpg" alt="photography" width="720" />
 
 </div>
 
