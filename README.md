@@ -1,8 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Eugene%20Sim&fontSize=42&fontColor=c9d1d9&fontAlignY=35&animation=fadeIn&desc=Data%20Engineer%20%7C%20Singapore&descSize=16&descColor=8b949e&descAlignY=55" />
+<div align="center">
+<img width="100%" src="https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=1400&h=350&fit=crop&crop=bottom" alt="Mount Fuji with cherry blossoms" />
+
+<sub>Photo by <a href="https://unsplash.com/@jjying">JJ Ying</a> on <a href="https://unsplash.com">Unsplash</a></sub>
+
+# Eugene Sim
+
+`Data Engineer` · `Singapore`
+
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Engineering+Data+at+Scale;Exploring+Quant+%26+Algo+Trading;Building+with+AI+Agents+%26+LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Engineering+Data+at+Scale;Building+with+AI+Agents+%26+LLMs;Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,7 +37,7 @@ Data Engineer at a **prominent multinational financial institution**, architecti
 
 ### Interests
 
-**Markets & Trading** — Deeply passionate about options and personal investing. I run a disciplined, systematic options-selling strategy — primarily harvesting theta decay by writing contracts on carefully vetted underlyings. Every position is filtered through a proprietary framework that evaluates probability of assignment, implied volatility rank, and fundamental conviction. Assignment risk is deliberately low, but even in the rare event of exercise, every underlying is one I'm comfortable holding as a long-term position. No gambling — just structured, repeatable edge extraction.
+**Markets & Trading** — Deeply passionate about options and personal investing. I run a disciplined, systematic options-selling strategy — primarily harvesting theta decay by writing contracts on carefully vetted underlyings. Every position is filtered through a proprietary framework that evaluates probability of assignment, implied volatility rank, and fundamental conviction. Assignment risk is deliberately low, but even in the rare event of exercise, every underlying is one I'm comfortable holding as a long-term position. Every position is deliberate — structured, repeatable, methodical edge extraction.
 
 **AI/ML & LLMs** — Building with large language models, experimenting with agentic workflows, fine-tuning, and exploring what's possible at the frontier of AI tooling.
 
