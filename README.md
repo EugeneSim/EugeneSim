@@ -49,9 +49,13 @@ Data Engineer at a **prominent multinational financial institution**, architecti
 
 <div align="center">
 
-`🏃 Running` · `🏸 Badminton` · `⛳ Golf` · `⛷️ Skiing` · `🎮 Games` · `🏋️ Gym` · `📷 Photography`
+`🏃 Running` · `🏸 Badminton` · `⛳ Golf` · `⛷️ Skiing` · `🎮 Games` · `🏋️ Gym` · `📷 Photography` · `🗿 Figurine Collecting`
 
 </div>
+
+<br/>
+
+**On Figurines** — I collect limited-production resin statues from [Tsume](https://www.tsume-art.com/) and [P.O.P (Portrait of Pirates)](https://www.megahobby.jp/pop/) figures. There's something deeply satisfying about owning a meticulously sculpted, numbered piece from a short production run — each one is part craftsmanship, part artifact.
 
 <br/>
 
@@ -60,6 +64,8 @@ Data Engineer at a **prominent multinational financial institution**, architecti
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/EugeneSim/EugeneSim/claude/strange-mccarthy/assets/photo.jpg" alt="photography" width="720" />
+
+<sub>Sony A7C · 24-70mm f/2.8 DG DN II</sub>
 
 </div>
 
@@ -73,13 +79,16 @@ Data Engineer at a **prominent multinational financial institution**, architecti
 
 <img src="https://skillicons.dev/icons?i=java,scala,python&theme=dark" />
 
-<br/><br/>
+`Java` · `Scala` · `Python`
+
+<br/>
 
 **Data & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=elasticsearch,kafka,kubernetes,linux,git,jenkins,grafana,prometheus&theme=dark" />
 
-<br/>
+`Elasticsearch` · `Kafka` · `Kubernetes` · `Linux` · `Git` · `Jenkins` · `Grafana` · `Prometheus`
+
 <br/>
 
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
@@ -97,7 +106,11 @@ Data Engineer at a **prominent multinational financial institution**, architecti
 **IDEs & Tools**
 
 <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode&theme=dark" />
-&nbsp;&nbsp;
+
+`IntelliJ IDEA` · `PyCharm` · `VS Code`
+
+<br/>
+
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Spark_Shell-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 
@@ -106,7 +119,11 @@ Data Engineer at a **prominent multinational financial institution**, architecti
 **Exploring**
 
 <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
-&nbsp;&nbsp;
+
+`AWS` · `GCP`
+
+<br/>
+
 <img src="https://img.shields.io/badge/AWS_Strands-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
