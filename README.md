@@ -28,7 +28,7 @@ Data Engineer at a **prominent multinational financial institution**, architecti
 
 ### Interests
 
-**Markets & Trading** — Deeply passionate about options, derivatives, and personal investing. Fascinated by market microstructure, volatility surfaces, and the mechanics of price discovery.
+**Markets & Trading** — Deeply passionate about options and personal investing. I run a disciplined, systematic options-selling strategy — primarily harvesting theta decay by writing contracts on carefully vetted underlyings. Every position is filtered through a proprietary framework that evaluates probability of assignment, implied volatility rank, and fundamental conviction. Assignment risk is deliberately low, but even in the rare event of exercise, every underlying is one I'm comfortable holding as a long-term position. No gambling — just structured, repeatable edge extraction.
 
 **AI/ML & LLMs** — Building with large language models, experimenting with agentic workflows, fine-tuning, and exploring what's possible at the frontier of AI tooling.
 
@@ -40,7 +40,23 @@ Data Engineer at a **prominent multinational financial institution**, architecti
 
 <div align="center">
 
-`🏃 Running` · `🏸 Badminton` · `⛳ Golf` · `⛷️ Skiing` · `🎮 Games` · `🏋️ Gym`
+`🏃 Running` · `🏸 Badminton` · `⛳ Golf` · `⛷️ Skiing` · `🎮 Games` · `🏋️ Gym` · `📷 Photography`
+
+</div>
+
+<br/>
+
+### Shot on Camera
+
+<div align="center">
+
+<!-- Replace the placeholder below with your own image:
+     1. Add your photo to this repo (e.g., assets/photo.jpg)
+     2. Update the src path accordingly
+-->
+<img src="assets/photo.jpg" alt="photography" width="720" />
+
+<sub>*Replace with your favourite shot — add the image to `assets/` and update the path above.*</sub>
 
 </div>
 
