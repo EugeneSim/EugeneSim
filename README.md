@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Building+Data+Pipelines+%26+ML+Systems;Exploring+Quant+%26+Algo+Trading;Turning+Data+into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Engineering+Data+at+Scale;Exploring+Quant+%26+Algo+Trading;Building+with+AI+Agents+%26+LLMs)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,11 +22,27 @@
 
 ## About
 
-Data Engineer at **UOB**, working across hybrid cloud environments to build and maintain data infrastructure at scale. My day-to-day involves designing pipelines, orchestrating workflows, and making data accessible and reliable for downstream consumers.
+Data Engineer at a **prominent multinational financial institution**, architecting and orchestrating large-scale data infrastructure across hybrid cloud environments. Approaching three years of navigating the intersection of distributed systems, pipeline reliability, and enterprise-grade data platforms — turning sprawling, heterogeneous data estates into something coherent and dependable.
 
-Outside of work, I'm deep into two areas that genuinely excite me — **AI/ML & LLMs** (building applications, fine-tuning models, experimenting with agents) and **Quantitative Finance** (algorithmic trading strategies, market microstructure, statistical arbitrage).
+<br/>
 
-Always open to conversations around data engineering, machine learning, or quant.
+### Interests
+
+**Markets & Trading** — Deeply passionate about options, derivatives, and personal investing. Fascinated by market microstructure, volatility surfaces, and the mechanics of price discovery.
+
+**AI/ML & LLMs** — Building with large language models, experimenting with agentic workflows, fine-tuning, and exploring what's possible at the frontier of AI tooling.
+
+**Quantitative Finance** — Algorithmic trading strategies, statistical arbitrage, and the pursuit of systematic edge through data-driven decision-making.
+
+<br/>
+
+### When I'm Not Engineering
+
+<div align="center">
+
+`🏃 Running` · `🏸 Badminton` · `⛳ Golf` · `⛷️ Skiing` · `🎮 Games` · `🏋️ Gym`
+
+</div>
 
 <br/>
 
@@ -34,23 +50,76 @@ Always open to conversations around data engineering, machine learning, or quant
 
 <div align="center">
 
-**Core**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,kubernetes,git,linux,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,scala,python&theme=dark" />
 
 <br/><br/>
 
-**Cloud & Data**
+**Data & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,kafka&theme=dark" />
+<img src="https://skillicons.dev/icons?i=elasticsearch,kafka,kubernetes,linux,git,jenkins,grafana,prometheus&theme=dark" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/YARN-0D597F?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudera-F96702?style=for-the-badge&logo=cloudera&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+<br/><br/>
+
+**IDEs & Tools**
+
+<img src="https://skillicons.dev/icons?i=idea,pycharm,vscode&theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark_Shell-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 
 <br/><br/>
 
 **Exploring**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AWS_Strands-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=black" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Kimi-7C3AED?style=for-the-badge&logoColor=white" />
 
 </div>
+
+<br/>
+
+## Learning Roadmap
+
+> Tracking what I'm working through — ticking off as I go.
+
+### In Progress
+
+- [ ] **Anthropic Courses** — Skilljar certification track
+- [ ] **Google Cloud Fundamentals: Core Infrastructure** — Coursera
+
+### Up Next
+
+- [ ] AWS Solutions Architect Associate
+- [ ] LangChain / LangGraph for agentic pipelines
+- [ ] Quantitative finance with Python (options pricing, Greeks, Monte Carlo)
+- [ ] MLOps — model deployment, monitoring, and lifecycle management
+- [ ] System Design for large-scale data platforms
+- [ ] Rust for performance-critical data tooling
+
+### Completed
+
+- [x] Setting up this profile ✨
 
 <br/>
 
@@ -68,9 +137,9 @@ Always open to conversations around data engineering, machine learning, or quant
 </td>
 <td>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=EugeneSim&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=EugeneSim&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EugeneSim&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" />
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=EugeneSim&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" />
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=EugeneSim&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=EugeneSim&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" />
 </picture>
 </td>
 </tr>
@@ -84,7 +153,7 @@ Always open to conversations around data engineering, machine learning, or quant
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EugeneSim&theme=darkhub&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EugeneSim&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -98,6 +167,9 @@ Always open to conversations around data engineering, machine learning, or quant
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EugeneSim/EugeneSim/output/github-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/EugeneSim/EugeneSim/output/github-snake-dark.svg" />
 </picture>
+
+> *The snake animation will appear after the [GitHub Action](../../actions/workflows/snake.yml) runs for the first time. Trigger it manually from the Actions tab after merging.*
+
 </div>
 
 <br/>
