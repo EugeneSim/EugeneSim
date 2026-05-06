@@ -142,7 +142,7 @@ Data Engineer at a **prominent multinational financial institution**, architecti
 ### In Progress
 
 - [x] **Anthropic Courses** — Skilljar certification track
-- [ ] **Google Cloud Fundamentals: Core Infrastructure** — Coursera
+- [x] **Google Cloud Fundamentals: Core Infrastructure** — Coursera
 
 ### Up Next
 
